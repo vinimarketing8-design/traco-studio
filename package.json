@@ -1,0 +1,12 @@
+{
+  "name": "traco-studio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicativo de animação whiteboard Traço Studio",
+  "scripts": {
+    "start": "node serve.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
